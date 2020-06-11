@@ -1,2 +1,2 @@
 # KafkaStreamLog
-use kafka Stream, Search key logs in real time.
+Using kafka Stream, searching key logs in real time.
